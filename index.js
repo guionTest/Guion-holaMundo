@@ -8,3 +8,5 @@ function incrementNumbers() {
 incrementNumbers()
 
 console.log(numbers)
+
+console.log(numbers)
