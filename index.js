@@ -10,4 +10,6 @@ function incrementNumbers() {
 
 incrementNumbers()
 
+"hola"
+
 console.log(numbers)
