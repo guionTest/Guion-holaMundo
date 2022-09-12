@@ -3,3 +3,6 @@
 constributions
 
 Abierto a contribuciones
+
+Constribuidores:
+•Adrian Acurero
