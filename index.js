@@ -6,5 +6,3 @@ function incrementNumbers() {
 }
 
 incrementNumbers();
-
-console.log(numbers);
